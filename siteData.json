@@ -7,11 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "zwe-zeya": "Zwe Zeya",
+        "raghava-chittidi": "Raghava Chittidi",
+        "dylan-chan": "Dylan Chan",
+        "kelly-wong": "Kelly Wong",
+        "wu-xueting": "Wu XueTing"
       },
       "headingKeywords": {}
     },
@@ -136,8 +136,39 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
+      "src": "team/choaticman.md",
+      "headings": {
+        "layout-default-md-head-docs-team-choaticman-md-title-and-quot-dylan-chan-s-project-portfolio-page-and-quot": "layout: default.md\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD:docs/team/choaticman.md\ntitle: &quot;Dylan Chan's Project Portfolio Page&quot;",
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/raghava-chittidi.md",
+      "title": "Raghava Chittidi's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/woke02.md",
       "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/xueting.md",
+      "headings": {
+        "project-hireme": "Project: HireMe"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/zwezeya.md",
+      "title": "Zwe Zeya's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
