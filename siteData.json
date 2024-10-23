@@ -113,6 +113,7 @@
         "adding-an-internship-application-a": "Adding an internship application: /a",
         "listing-all-internship-applications-list": "Listing all internship applications : /list",
         "locating-applications-by-company-name-f": "Locating applications by company name: /f",
+        "changing-the-status-of-an-internship-application-accept-pending-reject": "Changing the status of an internship application : /accept, /pending, /reject",
         "deleting-an-internship-application-d": "Deleting an internship application : /d",
         "clearing-all-entries-clear": "Clearing all entries : /clear",
         "exiting-the-program-exit": "Exiting the program : /exit",
