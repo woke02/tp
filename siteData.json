@@ -41,7 +41,6 @@
       "title": "Developer Guide",
       "headings": {
         "hireme-developer-guide": "HireMe Developer Guide",
-        "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
@@ -59,6 +58,7 @@
         "update-the-status-of-an-internship-application": "Update the Status of an Internship Application",
         "filter-internship-applications": "Filter internship applications",
         "sort-internship-application-list": "Sort internship application list",
+        "clear": "Clear",
         "view-chart": "View chart",
         "close-the-application": "Close the application",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -71,13 +71,17 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch": "Launch",
         "help-window": "Help Window",
+        "clearing-all-internship-applications": "Clearing all internship applications",
         "adding-an-internship-application": "Adding an internship application",
+        "list": "List",
         "deleting-an-internship-application": "Deleting an internship application",
         "sorting-the-list-of-internship-applications": "Sorting the list of internship applications",
         "finding-internship-applications": "Finding internship applications",
         "updating-the-status-of-an-internship-application": "Updating the status of an internship application",
+        "chart-window": "Chart Window",
+        "filtering-internship-applications": "Filtering internship applications",
         "saving-data": "Saving data",
-        "shutdown": "Shutdown"
+        "exit-hireme-application": "Exit HireMe Application"
       },
       "headingKeywords": {}
     },
@@ -121,6 +125,9 @@
       "src": "UserGuide.md",
       "headings": {
         "hireme-user-guide": "HireMe User Guide",
+        "welcome-to-hireme": "Welcome to HireMe!",
+        "overview": "Overview",
+        "overview-of-target-users": "Overview of target users",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : /help",
@@ -166,14 +173,15 @@
     },
     {
       "src": "team/woke02.md",
-      "title": "John Doe's Project Portfolio Page",
+      "title": "Kelly Wong's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-hireme": "Project: HireMe"
       },
       "headingKeywords": {}
     },
     {
       "src": "team/xueting.md",
+      "title": "XueTing's Project Portfolio Page",
       "headings": {
         "project-hireme": "Project: HireMe"
       },
