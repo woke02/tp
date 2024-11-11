@@ -392,6 +392,6 @@ with(this){return _c('h2',{attrs:{"id":"acknowledgements"}},[_v("Acknowledgement
 with(this){return _c('p',[_v("We started with a general "),_c('a',{attrs:{"href":"https://se-education.org/addressbook-level3/UserGuide.html"}},[_v("AB3 user guide")]),_v(" template and adapted it to the functional requirements of HireMe. We also used "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind")]),_v(" which is a third party library to generate a dynamic user guide website from Markdown text.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 0:23:12 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 0:55:41 GMT+8]")])])])}
 }];
   
