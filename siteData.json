@@ -55,7 +55,6 @@
         "list-all-internship-applications": "List all internship applications",
         "delete-an-internship-application": "Delete an internship application",
         "update-the-status-of-an-internship-application": "Update the status of an Internship Application",
-        "update-the-status-of-an-internship-application-2": "Update the Status of an Internship Application",
         "find-internship-applications": "Find internship applications",
         "filter-internship-applications": "Filter internship applications",
         "sort-internship-application-list": "Sort internship application list",
@@ -150,7 +149,8 @@
         "saving-the-data": "Saving the data",
         "faq": "FAQ",
         "troubleshooting": "Troubleshooting",
-        "command-summary": "Command summary"
+        "command-summary": "Command summary",
+        "glossary": "Glossary"
       },
       "headingKeywords": {}
     },
