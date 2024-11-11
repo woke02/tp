@@ -81,7 +81,8 @@
         "chart-window": "Chart Window",
         "filtering-internship-applications": "Filtering internship applications",
         "saving-data": "Saving data",
-        "exit-hireme-application": "Exit HireMe Application"
+        "exit-hireme-application": "Exit HireMe Application",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -126,7 +127,7 @@
       "headings": {
         "hireme-user-guide": "HireMe User Guide",
         "welcome-to-hireme": "Welcome to HireMe!",
-        "overview": "Overview",
+        "overview-of-user-guide": "Overview of User Guide",
         "overview-of-target-users": "Overview of target users",
         "quick-start": "Quick start",
         "features": "Features",
