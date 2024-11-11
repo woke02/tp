@@ -125,18 +125,23 @@
     {
       "src": "UserGuide.md",
       "headings": {
-        "hireme-user-guide": "HireMe User Guide",
+        "hireme-user-guide": " HireMe User Guide",
         "welcome-to-hireme": "Welcome to HireMe!",
         "overview-of-user-guide": "Overview of User Guide",
+        "table-of-contents": "Table of Contents",
         "overview-of-target-users": "Overview of target users",
+        "how-to-use-our-user-guide": "How to use our User Guide",
         "quick-start": "Quick start",
+        "part-1-setting-up-and-downloading-hireme": "Part 1: Setting up and downloading HireMe",
+        "part-2-using-the-hireme-application": "Part 2: Using the HireMe application",
+        "refer-to-the-features-below-for-more-details-of-each-command-check-troubleshooting-if-you-are-facing-problems-for-setting-up": "Refer to the Features below for more details of each command.\nCheck troubleshooting if you are facing problems for setting up.",
         "features": "Features",
         "viewing-help-help": "Viewing help : /help",
         "adding-an-internship-application-add": "Adding an internship application: /add",
         "listing-all-internship-applications-list": "Listing all internship applications : /list",
         "deleting-an-internship-application-delete": "Deleting an internship application : /delete",
         "finding-applications-by-company-name-find": "Finding applications by company name: /find",
-        "updating-the-status-of-an-internship-application-accept-pending-reject": "Updating the status of an internship application : /accept, /pending, /reject",
+        "updating-the-status-of-an-internship-application-accept-pending-reject": "Updating the Status of an Internship Application: /accept, /pending, /reject",
         "filtering-internship-applications-by-status-filter": "Filtering internship applications by status: /filter",
         "sorting-internship-applications-sort": "Sorting internship applications: /sort",
         "clearing-all-entries-clear": "Clearing all entries : /clear",
@@ -144,6 +149,7 @@
         "exiting-the-program-exit": "Exiting the program : /exit",
         "saving-the-data": "Saving the data",
         "faq": "FAQ",
+        "troubleshooting": "Troubleshooting",
         "command-summary": "Command summary"
       },
       "headingKeywords": {}
@@ -152,7 +158,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "hireme": "HireMe"
+        "hireme": " HireMe"
       },
       "headingKeywords": {}
     },
