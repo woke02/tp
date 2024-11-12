@@ -41,6 +41,7 @@
       "title": "Developer Guide",
       "headings": {
         "hireme-developer-guide": "HireMe Developer Guide",
+        "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
